@@ -1,3 +1,2 @@
 # HandWarmer
-
-手宝
+暖手宝
